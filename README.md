@@ -25,7 +25,7 @@ Add `exstd` to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-exstd = "0.1"
+exstd = "0.1.2"
 ```
 
 ## Usage
