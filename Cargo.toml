@@ -9,7 +9,7 @@ readme = "README.md"
 homepage = "https://github.com/yourusername/exstd"
 repository = "https://github.com/yourusername/exstd"
 license = "MIT"
-keywords = ["rust", "extensions", "standard library", "serde", "tokio", "reqwest", "log", "anyhow"]
+keywords = ["rust", "extensions", "standard library", "serde", "tokio"]
 categories = ["development-tools", "libraries"]
 rust-version = "1.78.0"
 
