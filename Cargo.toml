@@ -2,6 +2,16 @@
 name = "exstd"
 version = "0.1.0"
 edition = "2021"
+authors = ["STATPAN statpan@outlook.com"]
+description = "exstd is a Rust library that provides a set of commonly used extensions for the Rust standard library, including serialization, asynchronous programming, HTTP requests, logging, error handling, and more."
+documentation = "https://docs.rs/exstd"
+readme = "README.md"
+homepage = "https://github.com/yourusername/exstd"
+repository = "https://github.com/yourusername/exstd"
+license = "MIT"
+keywords = ["rust", "extensions", "standard library", "serde", "tokio", "reqwest", "log", "anyhow"]
+categories = ["development-tools", "libraries"]
+rust-version = "1.78.0"
 
 [dependencies]
 anyhow = "1.0.83"
