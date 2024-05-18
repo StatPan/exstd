@@ -4,19 +4,13 @@
 
 ## Features
 
-- **Serialization**: Easily serialize and deserialize data with `serde` and `serde_json`.
+- **Serialization**: Easily serialize and deserialize data with `serde` and `serde_json`, `serde_yaml`.
 - **Asynchronous Programming**: Utilize `tokio` for asynchronous programming.
 - **HTTP Requests**: Perform HTTP requests with `reqwest`.
 - **Logging**: Implement logging with `log` and `env_logger`.
-- **Error Handling**: Simplify error handling with `anyhow` and `thiserror`.
 - **Date and Time**: Work with dates and times using `chrono`.
 - **Regular Expressions**: Use regular expressions with `regex`.
-- **UUIDs**: Generate and manage UUIDs with `uuid`.
-- **Futures**: Work with futures using `futures`.
 - **Command Line Interface**: Parse command line arguments with `clap`.
-- **Iterators**: Enhance iterator functionalities with `itertools`.
-- **Lazy Static**: Define lazily evaluated statics with `lazy_static`.
-- **Synchronization**: Use efficient synchronization primitives with `parking_lot`.
 - **Environment Variables**: Manage environment variables with `dotenv`.
 
 ## Installation
