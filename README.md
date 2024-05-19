@@ -12,6 +12,10 @@
 - **Regular Expressions**: Use regular expressions with `regex`.
 - **Command Line Interface**: Parse command line arguments with `clap`.
 - **Environment Variables**: Manage environment variables with `dotenv`.
+- **Ordered Maps**: Use indexmap for ordered maps and sets, which maintain the order of insertion. This can be particularly useful when the order of elements is important for your application.
+- **Parallelism**: Leverage rayon for data parallelism. rayon makes it easy to perform parallel computations using Rust's powerful type system and concurrency model.
+- **Random Number Generation**: Utilize rand for generating random numbers. rand provides a wide range of random number generators and distributions, making it suitable for a variety of applications including simulations and games.
+
 
 ## Installation
 
