@@ -23,7 +23,7 @@ Add `exstd` to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-exstd = "0.1.2"
+exstd = "0.1.4"
 ```
 
 ## Usage
