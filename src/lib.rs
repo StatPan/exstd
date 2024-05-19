@@ -9,7 +9,7 @@ pub mod anyhow;
 pub mod chrono;
 pub mod regex;
 pub mod clap;
-pub mod dotenv;
+pub mod dotenvy;
 pub mod indexmap;
 pub mod random;
 pub mod rayon;
