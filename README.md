@@ -2,6 +2,11 @@
 
 `exstd` is a Rust library that provides a set of commonly used extensions for the Rust standard library. It includes a variety of popular crates that cover essential functionalities such as serialization, asynchronous programming, HTTP requests, logging, error handling, and more.
 
+## Install
+```bash
+cargo add exstd
+```
+
 ## Features
 
 - **Serialization**: Easily serialize and deserialize data with `serde` and `serde_json`, `serde_yaml`.
@@ -23,7 +28,7 @@ Add `exstd` to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-exstd = "0.1.4"
+exstd = "0.1.6"
 ```
 
 ## Usage
